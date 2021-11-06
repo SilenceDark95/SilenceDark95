@@ -1,0 +1,2 @@
+Primary Color ->  #E4F9F5
+Secondary Color -> #67BFBF

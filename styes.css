@@ -1,0 +1,146 @@
+ * {
+     margin: 0px;
+ }
+
+ p {
+    font-family: 'Merriweather', serif;
+ }
+
+ h1, h2 {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #67BFBF;
+ }
+ .intro {
+     background-color: #E4F9F5;
+     text-align: center;
+ }
+
+.cloud-upper {
+    position: absolute;
+    right:161px;
+    top: 96px;
+}
+.cloud-lower {
+    position: absolute;
+    top:200px;
+    right: 914px;
+}
+.mountain {
+    margin: 95px;
+}
+.intro h1 {
+    font-size: 70px;
+    color: #67BFBF;
+    font-family: 'Sacramento', cursive;
+}
+.intro h2 {
+    color: #67BFBF;
+    margin-top: 15px;
+}
+.intro p {
+    font-size: 28px;
+    margin-top: 18px;
+}
+.profile {
+    padding: 70px 0;
+    /* padding: top/bottom left/right; */
+    text-align: center;
+}
+.profile img {
+    width: 150px;
+}
+.profile p {
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 18px;
+    line-height: 30px;
+}
+hr {
+    border: dotted 6px gray;
+    border-bottom: none;
+    width: 10%;
+    margin: 0 auto;
+}
+.skills {
+    padding: 70px 0;
+}
+.skills h2 {
+    color: #67BFBF;
+    font-size: 38px;
+    /* margin-bottom: 40px; */
+    text-align: center;
+}
+.skill-row {
+    width: 50%;
+    margin: 50px auto;
+}
+.skill-row img {
+    width:130px;
+}
+.skill-row .code {
+    float: left;
+}
+.skill-row h3 {
+    color: #67BFBF;
+    font-size: 20px;
+}
+.skill-row .food {
+    float: right;
+    margin-left: 20px;
+}
+.row_2 p 
+.row_2 h3 {
+    text-align: right;
+}
+.contact-me {
+    padding: 70px 0;
+    text-align: center;
+}
+.contact-me h2 {
+    color: #67BFBF;
+    font-size: 38px;
+    margin-bottom: 20px;
+}
+.contact-me h3 {
+    font-size: 30px;
+    color: #67BFBF;
+}
+.contact-me p {
+    width: 40%;
+    margin: 0 auto ;
+    line-height: 28px;
+    margin-bottom: 30px ;
+}
+.btn {
+    box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	background:linear-gradient(to bottom, #bddbfa 5%, #80b5ea 100%);
+	background-color:#bddbfa;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.footer {
+    text-align: center;
+    background-color: #67BFBF;
+    padding: 50px;
+}
+.footer a {
+    text-decoration: none;
+    color: #000;
+    margin-right: 10px;
+}
+.footer a:hover {
+    color: #FFF;
+}
+.footer p {
+    font-size: 12px;
+    margin-top: 12px;
+}
